@@ -2,11 +2,12 @@
 
 The [AlexNet CNN architecture](https://homl.info/80) won the 2012 ImageNet ILSVRC challenge by a large margin. It is similar to [LeNet-5](https://homl.info/lenet5), with much larger and deeper architecture. In this project, I reimplemented the AlexNet CNN architecture on the mnist and cifar10 datasets, achieving the perfect results below.
 
-<br>
-<img src="cifar10.png" alt="cifar10 dataset" width = "49%"/>
-<img src="mnist.png" alt="mnist dataset" width = "49%"/>
-</br>
-
+<p align="center">
+ <br>
+  <img src="cifar10.png" alt="cifar10 dataset" width = "49%"/>
+  <img src="mnist.png" alt="mnist dataset" width = "49%"/>
+ </br>
+</p>
 
 ## architecture
 
@@ -120,7 +121,9 @@ _______________________________________________________
 
 ## Results
 
-<br>
-<img src="cifar10_loss.png" alt="cifar10 dataset" width = "49%"/>
-<img src="mnist_loss.png" alt="mnist dataset" width = "49%"/>
-</br>
+<p align="center">
+ <br>
+  <img src="cifar10_loss.png" alt="cifar10 dataset" width = "49%"/>
+  <img src="mnist_loss.png" alt="mnist dataset" width = "49%"/>
+ </br>
+</p>
